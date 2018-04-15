@@ -4,4 +4,4 @@
 
 ## 点击图片进行每日morui
 
-<a href="http://orz.gery.top"><img src="amwiki/images/lightgery.png"  width="22%" alt="light"/>
+<a href="http://orz.gery.top"><img src="amWiki/images/lightgery.png"  width="22%" alt="light"/>
